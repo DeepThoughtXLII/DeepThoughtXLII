@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning LUA and C++ ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on 
-Instagram @acrylicgames  twitter @Evylin0  and here
+Instagram @acrylicgames  twitter @Evylin0  
 
 <!---
 DeepThoughtXLII/DeepThoughtXLII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
