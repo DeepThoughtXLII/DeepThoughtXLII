@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @DeepThoughtXLII
-- 👀 I’m interested in Game Development, Mobile Development and Web Development...
-- 🌱 I’m currently learning LUA and Python ...
+- 👀 I’m interested in Game Development with a current interest Editor Tooling...
 - 📫 How to reach me on 
-Instagram @acrylicgames 
-Email tabea.hasz@gmail.com
+Email: tabea.hasz@gmail.com
 
 <!---
 DeepThoughtXLII/DeepThoughtXLII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
